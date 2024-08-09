@@ -1,3 +1,3 @@
 # Notebooks
 
-Collection of Jupyter Notebooks
+Collection of my Jupyter Notebooks

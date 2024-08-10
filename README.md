@@ -1,3 +1,3 @@
 # Notebooks
 
-Collection of my Jupyter Notebooks
+Collection of my experiments in Jupyter Notebooks
